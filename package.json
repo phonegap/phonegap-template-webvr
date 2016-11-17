@@ -1,0 +1,22 @@
+{
+  "name": "phonegap-template-webvr",
+  "version": "1.0.0",
+  "description": "PhoneGap template for the WebVR Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phonegap/phonegap-template-webvr.git"
+  },
+  "keywords": [
+    "cordova:template"
+  ],
+  "author": "Adobe PhoneGap",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/phonegap/phonegap-template-webvr/issues"
+  },
+  "homepage": "https://github.com/phonegap/phonegap-template-webvr#readme"
+}
