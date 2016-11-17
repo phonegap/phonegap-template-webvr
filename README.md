@@ -5,7 +5,7 @@ A PhoneGap template for the [WebVR Boilerplate](https://github.com/borismus/webv
 
 To install:
 
-   cordova create hello com.example.hello HelloWorld --template phonegap-template-webvr
+    phonegap create hello com.example.hello HelloWorld --template phonegap-template-webvr
    
 More info about PhoneGap app templates [here](https://cordova.apache.org/docs/en/latest/guide/cli/template.html).
 
