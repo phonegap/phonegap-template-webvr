@@ -1,6 +1,6 @@
 {
   "name": "phonegap-template-webvr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PhoneGap template for the WebVR Boilerplate",
   "main": "index.js",
   "scripts": {
