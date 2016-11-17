@@ -1,6 +1,6 @@
 
 {
-  "name": "PhoneGap WebVR Boilerplate Template",
+  "name": "phonegap-webvr-boilerplate-template",
   "version": "1.0.0",
   "description": "This is the project created from the template: PhoneGap WebVR Boilerplate",
   "scripts": {
