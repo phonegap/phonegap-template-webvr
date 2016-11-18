@@ -1,12 +1,16 @@
 # phonegap-template-webvr
 
 
-A PhoneGap template for the [WebVR Boilerplate](https://github.com/borismus/webvr-boilerplate).
+A PhoneGap template for the [WebVR Boilerplate](https://github.com/borismus/webvr-boilerplate), designed for use on phones supporting iOS 8 or greater and Android (7.0 Nougat or greater preferable, older Android OSes will need to use the Crosswalk plugin).
 
 To install:
 
     phonegap create hello com.example.hello HelloWorld --template phonegap-template-webvr
    
+Don’t forget to add the Crosswalk plugin beforehand if you are on an older Android (< 7.0) version:
+
+    phonegap plugin add cordova-plugin-crosswalk-webview
+
 More info about PhoneGap app templates [here](https://cordova.apache.org/docs/en/latest/guide/cli/template.html).
 
 
